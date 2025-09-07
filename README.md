@@ -2,8 +2,8 @@ Haibo Liu
 
 Hi, I am Haibo Liu. 
 
-Links: [CV]
+Links: [CV](https://github.com/datant/datant.github.io/blob/main/docs/resume.pdf)
 
-GitHub projects: [https://github.com/datant/]
+GitHub projects: [https://github.com/datant/](https://github.com/datant/)
 
-Linkedin: [https://www.linkedin.com/in/%E6%B5%B7%E6%B3%A2-%E5%88%98-4961b5143/]
+Linkedin: [https://www.linkedin.com/in/%E6%B5%B7%E6%B3%A2-%E5%88%98-4961b5143/](https://www.linkedin.com/in/%E6%B5%B7%E6%B3%A2-%E5%88%98-4961b5143/)
