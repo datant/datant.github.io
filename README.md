@@ -6,7 +6,7 @@ I’m a highly motivated and results-driven professional with a strong passion f
 
 I’m excited about the opportunity to bring my deep technical expertise, leadership experience, and problem-solving mindset to your organization, contributing to its ongoing success and growth. I’m open to discussing potential opportunities and would welcome the chance to connect. Please feel free to reach out via email. Thank you for your time and consideration.
 
-Links: [[CV]](https://github.com/datant/datant.github.io/blob/main/docs/resume.pdf)
+Links: [[CV]](https://github.com/datant/datant.github.io/blob/main/docs/Resume-Haibo.Liu.pdf)
 
 GitHub projects: [[https://github.com/datant/]](https://github.com/datant/)
 
