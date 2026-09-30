@@ -1,6 +1,6 @@
 **Haibo Liu**
 
-Hello, I am Haibo Liu, a seasoned engineering leader with over 20 years of hands-on experience in software engineering. I’m currently seeking a challenging role as a ​Senior Principal Engineer, where I can leverage my proven ability to design, build, and scale high-performance, reliable systems.
+Hello, I am Haibo Liu, a seasoned engineering leader with over 20 years of hands-on experience in software engineering. I’m currently seeking a challenging role as a staff Engineer or engineer manager, where I can leverage my proven ability to design, build, and scale high-performance, reliable systems.
 
 I’m a highly motivated and results-driven professional with a strong passion for developing high-quality, scalable, and resilient enterprise software solutions. Throughout my career, I’ve consistently delivered impactful technical leadership, mentored engineering teams, and driven innovation to meet complex business needs.
 
